@@ -12,4 +12,4 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
       - name: Run a Script
-        run: echo "Hello Vinayak!"
+        run: echo "Hey! Vinayak"
